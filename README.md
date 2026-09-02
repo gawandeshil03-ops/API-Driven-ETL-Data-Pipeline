@@ -56,7 +56,7 @@ Create a data pipeline that ingests user data via an API, processes and stores i
 
 ### Further Enhancements
 
-- ~~Front-end dashboard for data display.~~
+
 - Advanced data processing features.
 
 ## How to test the project
